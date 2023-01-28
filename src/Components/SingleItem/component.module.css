@@ -1,0 +1,29 @@
+.container {
+    width: 95%;
+    margin: auto;
+    position: relative;
+    margin-bottom: 10px;;
+    padding: 10px;
+}
+
+.responseBtn {
+    width: 100%;
+    align-items: flex-end;
+    justify-content: flex-end;
+    text-align: end;
+}
+
+.responseBtn button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    width: 140px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.responseBtn button:hover {
+    color: blue;
+    background-color: blanchedalmond;
+}

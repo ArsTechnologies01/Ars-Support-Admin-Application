@@ -1,0 +1,24 @@
+.inputSection {
+    position: relative;
+    width: 350px;
+    margin: 5px;
+}
+
+.dialogBody {
+    display: flex;
+}
+
+.dialogImage {
+    line-height: 200px;
+}
+
+.dialogImage Button {
+    margin: 20px;
+}
+
+.media {
+    width: 200px !important;
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+}

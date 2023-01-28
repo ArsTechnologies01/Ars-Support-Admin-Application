@@ -1,0 +1,26 @@
+.Container {
+    width: auto;
+    padding: 10px;
+    border-radius: 10px;
+    height: 149.6vh;
+    margin: 10px;
+    background-color: #f2f2f2;
+}
+
+.Container h1 {
+    margin: 0;
+    color: black;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+.complaintSection {
+    width: 98%;
+    padding: 10px;
+    align-items: center;
+    height: 140vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: justify;
+    border-radius: 10px;
+}
